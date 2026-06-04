@@ -5,6 +5,7 @@ const sidebars = {
   tour: [
     'intro',
     'getting-started',
+    'modules/ai-daily-brief',
     {
       type: 'category',
       label: 'Compliance',
