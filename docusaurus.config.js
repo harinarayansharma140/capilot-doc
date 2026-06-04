@@ -16,11 +16,13 @@ const config = {
 
   future: { v4: true },
 
-  url: 'https://capilot.tulsix.com',
-  baseUrl: '/',
+  url: 'https://harinarayansharma140.github.io',
+  baseUrl: '/capilot-doc/',
+  trailingSlash: false,
 
-  organizationName: 'tulsix',
-  projectName: 'capilot',
+  organizationName: 'harinarayansharma140',
+  projectName: 'capilot-doc',
+  deploymentBranch: 'gh-pages',
 
   // Keep the build forgiving — these will be tightened once the site is on a real CI.
   onBrokenLinks: 'warn',
